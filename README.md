@@ -25,11 +25,11 @@
     
   
   # [개선사항]
-  해상도가 떨어지면 얼굴 인식률이 떨어지는 문제점 발생 <U>다양한 얼굴 표본을 추가로 학습</U>을 통해 해결
+해상도가 떨어지면 얼굴 인식률이 떨어지는 문제점 발생 <U>다양한 얼굴 표본을 추가로 학습</U>을 통해 해결
     
     
   # [활용방안]
-  **출입인원 파악**과 손님이 **머물렀던 시간** 등을 정보화하여 <span style="color:red"> **마케팅에 활용** </span> 가능
+**출입인원 파악**과 손님이 **머물렀던 시간** 등을 정보화하여 <span style="color:red"> **마케팅에 활용** </span> 가능
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
   
