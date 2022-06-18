@@ -27,7 +27,7 @@
   
   
   # [활용방안]
-  **출입인원 파악**과 손님이 **머물렀던 시간** 등을 정보화하여 <span style="color:red">마케팅에 활용</span> 가능
+  **출입인원 파악**과 손님이 **머물렀던 시간** 등을 정보화하여 <span style="color:red"> **마케팅에 활용** </span> 가능
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
   
