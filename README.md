@@ -5,8 +5,9 @@
   ### [프로젝트 개요]
   <img src=https://user-images.githubusercontent.com/37567501/174423209-69e83f82-3846-48f3-901e-20f40ec46e4a.png width="850" height="400"/>
   
-  <br/><br/><br/>
+  <br/><br/>
   ---
+  <br/><br/>
   
   ### [수행과정]
   <img src=https://user-images.githubusercontent.com/37567501/174423407-225cb43d-5391-4ab0-a683-4f7103b216e2.png width="850" height="400"/>
