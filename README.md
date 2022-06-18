@@ -15,6 +15,7 @@
   
   # [수행결과]
   ![image](https://user-images.githubusercontent.com/37567501/174423552-53b2ac8b-fc58-4b81-90f5-f27023fcc6cd.png)
+  
   **[설명]**
     1. 얼굴 인식 후 빨간 박스 생성
     2. 얼굴 인식 박스별 고유ID 값을 박스 센터에 할당
